@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">ASM_Adr2_Hieunnph32561</string>
+        <string name="open" />
+        <string name="close" />
+        <string name="english">Tiếng Anh</string>
+        <string name="vietnamese">Tiếng Việt</string>
+        <string name="Signup_up_account">Đăng Ký Tài Khoản</string>
+        <string name="Username">Tên Người Dùng</string>
+        <string name="Email">Email</string>
+        <string name="Password">Mật Khẩu</string>
+        <string name="Or_login_with">Hoặc Đăng Nhập Bằng</string>
+        <string name="Sign_up">Đăng Ký</string>
+        <string name="Forgot_password">Quên mật khẩu?</string>
+        <string name="Login">Đăng nhập </string>
+        <string name="Login_to_Accoun">Đăng nhập </string>
+        <string name="Setting">Cài đặt </string>
+        <string name="Logout">Đăng xuất </string>
+        <string name="Other">Khác </string>
+        <string name="Introduce">Giới thiệu </string>
+        <string name="Product_Management">Quản lý sản phẩm </string>
+        <string name="Sign_up_for_an_account">Đăng ký một tài khoản?</string>
+        <string name="CHANNEL_ID">Notification_lab6_ph32561_demo</string>
+        <string name="channel_description">Notification_lab6_ph32561_demo</string>
+        <string name="Canner">Đóng hộp</string>
+        <string name="Insert">Chèn</string>
+        <string name="ADD">Thêm</string>
+        <string name="Update">Sửa</string>
+        <string name="Payment">Thanh toán</string>
+        <string name="Notification">Thông báo</string>
+        <string name="Name">Tên</string>
+        \<string name="Numberphone">Số điện thoại</string>
+        <string name="Addrees">Địa chỉ</string>
+        <string name="Edit_profile">Sửa dự án</string>
+        <string name="Delete">Xóa</string>
+        <string name="Select_Language">Chọn ngôn ngữ</string>
+        <string name="Save">Lưu</string>
+
+
+
+</resources>

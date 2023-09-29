@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ASM_Adr2_Hieunnph32561</string>
+    <string name="open" />
+    <string name="close" />
+    <string name="english">English</string>
+    <string name="vietnamese">Vietnamese</string>
+    <string name="Signup_up_account">Sign Up Account</string>
+    <string name="Username">User name</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Or_login_with">Or Login Width</string>
+    <string name="Sign_up">Sign Up</string>
+    <string name="Forgot_password">Forgot password ?</string>
+    <string name="Login">Login ?</string>
+    <string name="Login_to_Accoun">Login to Accoun </string>
+    <string name="Setting">Setting </string>
+    <string name="Other">Other </string>
+    <string name="Logout">Logout</string>
+    <string name="Introduce">Introduce </string>
+    <string name="Product_Management">Product Management </string>
+    <string name="Sign_up_for_an_account">Sign up for an account?</string>
+    <string name="CHANNEL_ID">Notification_lab6_ph32561_demo</string>
+    <string name="channel_description">Notification_lab6_ph32561_demo</string>
+    <string name="Canner">Canner</string>
+    <string name="Insert">Insert</string>
+    <string name="ADD">ADD</string>
+    <string name="Update">Update</string>
+    <string name="Payment">Payment</string>
+    <string name="Notification">Notification</string>
+    <string name="Name">Name</string>
+    \<string name="Numberphone">Numberphone</string>
+    <string name="Addrees">Addrees</string>
+    <string name="Edit_profile">Edit profile</string>
+    <string name="Delete">Delete</string>
+    <string name="Select_Language">Select Language</string>
+    <string name="Save">Save</string>
+    Save
+</resources>

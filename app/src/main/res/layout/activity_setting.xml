@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawerlayouttt"
+    android:layout_margin="10dp"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RecyclerView_sanpham.Setting">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbarrrr"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#8C5EDF"
+            android:fitsSystemWindows="true"
+            app:title="@null" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="16dp"
+                android:text="@string/Select_Language"
+                android:textSize="18sp" />
+
+
+            <Button
+                android:id="@+id/button_english"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="vn"
+                />
+
+            <Button
+                android:id="@+id/button_vietnamese"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="en"
+             />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/navitionnn"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:padding="0dp"
+        app:headerLayout="@layout/header_menu_draw"
+        app:menu="@menu/menu_main" >
+
+    </com.google.android.material.navigation.NavigationView>
+
+</androidx.drawerlayout.widget.DrawerLayout>
